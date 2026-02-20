@@ -1,4 +1,4 @@
-import { Factory } from 'lucide-react';
+
 import { Accordion } from './components/Accordion';
 import { DocumentLink } from './components/DocumentLink';
 
