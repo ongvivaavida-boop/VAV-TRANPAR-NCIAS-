@@ -56,6 +56,14 @@ function App() {
               <DocumentLink title="Cronograma VAV" href="/CRONOGRAMA VAV.pdf" />
             </Accordion>
 
+            <Accordion title="Prestação de Contas Trimestral 10/12/25 a 10/03/26" className="bg-yellow-400 text-blue-900 hover:bg-yellow-500">
+              <div className="space-y-2 p-2">
+                <DocumentLink title="Relatório Financeiro" href="/RELATÓRIO FINANCEIRO.pdf" />
+                <DocumentLink title="Relatório Pedagógico" href="/RELATÓRIO PEDAGÓGICO.pdf" />
+                <DocumentLink title="Prestação de Contas - Edital" href="/Prestação de Contas - Edital 0012024, Termo de Fomento 0082025.pdf" />
+              </div>
+            </Accordion>
+
             <Accordion title="Planejamento G2 e G3 (Fev - Jun)" className="bg-yellow-400 text-blue-900 hover:bg-yellow-500">
               <DocumentLink title="Planejamento G2 e G3 (Fev - Jun)" href="/G2 e G3 FEV A JUN - planejamento (1).pdf" />
             </Accordion>
